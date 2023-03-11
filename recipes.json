@@ -1,0 +1,27 @@
+[
+  {
+    "recipeName": "Kladdkaka",
+    "description": "En seg och god chokladkaka",
+    "ingredients": [
+      "socker",
+      "ägg",
+      "smör",
+      "kakao",
+      "mjöl"
+    ],
+    "prepTime": 45
+  },
+  {
+    "recipeName": "Sockerkaka",
+    "description": "En mjuk och härlig kaka",
+    "ingredients": [
+      "socker",
+      "ägg",
+      "smör",
+      "vaniljsocker",
+      "mjöl",
+      "mjölk"
+    ],
+    "prepTime": 30
+  }
+]
